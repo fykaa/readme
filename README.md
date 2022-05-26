@@ -31,9 +31,11 @@
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/GIF/github.gif"></a>
-<br/>
 
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/CrossStack-Q/CrossStack-Q/blob/main/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
 
 
 
@@ -63,58 +65,36 @@
 
 
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/CrossStack-Q/CrossStack-Q/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/GIF/github.gif"></a>
 <br/>
+
+
 
 #
 
 
 <h1>
   Connect With Me
-  <a target="_blank">
+<!--   <a target="_blank">
     <img src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/anurag-sharma-72a834225/" target="_blank">
+  <a href="#" target="_blank">
     <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/linkedin.svg"/></code>
   </a>
   
   
   <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="#"/></code>
   </a>
   <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anurag Sharma's DEV Profile" height="62" width="62"></code>
+    <code><img src="#" alt="Anurag Sharma's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/hr.png"/></code>
-  </a>
-
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/cf.png"/></code>
-  </a>
-
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/cf.png"/></code>
-  </a>
-
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/cc.svg"/></code>
-  </a>
-  
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/lc.png"/></code>
-  </a>
-</p>
+<br/> -->
 
 <br/>
 <br/>
