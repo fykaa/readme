@@ -11,9 +11,11 @@
 
 <br/>
 <br/>
+<div align="center">
 <a target="_blank">
-  <img display: "block" margin-left: "auto" margin-right: "auto" height="250" width="400" alt="GIF" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif">
+  <img height="250" width="400" alt="GIF" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif">
 </a>
+  </div>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Android Development 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Machine Learning**
