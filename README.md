@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
 <a target="_blank">
-  <img height="250" width="400" alt="GIF" src="https://cloud-qjb8pmyun-hack-club-bot.vercel.app/0hi.gif">
+  <img height="250" width="400" alt="GIF" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif">
 </a>
   </div>
 
