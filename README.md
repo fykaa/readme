@@ -4,8 +4,7 @@
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://cloud-qjb8pmyun-hack-club-bot.vercel.app/0hi.gif" width="4px" /> 
-    
+    <img src="https://cloud-qjb8pmyun-hack-club-bot.vercel.app/0hi.gif" height = "10px" width="10px" /> 
   </a>
 </h1>
 
