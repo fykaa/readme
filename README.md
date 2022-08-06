@@ -1,110 +1,120 @@
+<pre align=""  > <b> Hello folks!, Fyka is here... </b>. 🙋🏽‍♂️</pre>
+
+<br>
+<br>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Fyka Ansari, I do open source!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
+
 <h1 align="center">
-  <a target="_blank">
-    <img width="24px" style="max-width:100%;">
-  </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <a target="_blank">
-    <img src="https://cloud-qjb8pmyun-hack-club-bot.vercel.app/0hi.gif" height = "50px" width="50px" /> 
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I,+am+passionate+about+...;discussing+all+the+...;ideas+out+there+🖤&center=true&size=20">
   </a>
 </h1>
 
-<br/>
-<div align="center">
-<a target="_blank">
-  <img height="250" width="400" alt="GIF" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif">
-</a>
-  </div>
-<!-- <br/> -->
-<div>
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 <strong>𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</strong> <br/>
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 practicing <strong>DSAlgorithms</strong> <br/>
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 <strong>DSA & 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 Projects</strong> <br/>
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 <strong>𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 :)</strong> <br/>
-- 💬 Any doubts, ask me, 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.<br/>
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : <strong>She/Her</strong> <br/>
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : <strong>I am passionate about discussing all the ideas out there!</strong>
-  </div>
-  <br/>
+<!-- Cool Giphy Start here -->
 
+<img align="right" width=100px src="https://media.giphy.com/media/YMXLTqI8MWFoEK5vwn/giphy.gif">
 
-<br/>
-<br/>
+<!-- End here -->
 
-#
+- 🔭 &nbsp; ⇢ &nbsp;  I'm currently working on Web Development 
+- 📋 &nbsp; ⇢ &nbsp; I'm currently practising DSA Algorithms 
+- 🤝 &nbsp; ⇢ &nbsp; I'm looking to collaborate on DSA & Web Development 
+- 🙋🏽‍♂️ &nbsp; ⇢ &nbsp; Ask me anything [here](https://github.com/fykaa/fykaa/issues)
 
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
-<br/>
+<!-- End here ... -->
+
+<br>
+
+<!-- Connect with me,languages & tools icons. -->
+
+<!-- Start Here   -->
 
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
+### 💻 Languages and Tools
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<!-- <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
-#
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
+<!-- End here -->
 
-<!-- <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
+<!-- Blog Post with dynamically update using GitHub Workflow -->
 
-<br/>
+<!-- Start here -->
 
-#
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<!-- ➡️ [more blog posts...]() -->
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/GIF/github.gif"></a>
-<br/>
+<!-- End here -->
 
+<!-- YouTube Videos with dynamically update using GitHub Workflow -->
 
+<!-- Start here -->
+<!-- ### 📕 Latest YouTube Videos -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-#
+<!-- End here -->
 
+<!-- Adding git Stats, Streaks to take your profile on the another level. -->
 
-<!-- <h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
+### Some more information
 
-<p align="center">
-  <br>
-  <a href="#" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/SVG/linkedin.svg"/></code>
-  </a>
+<!-- GitHub Stats  Start here -->
+
+<details>
+  <summary> 📊 &nbsp; <i>My Stats</i></summary>
+    
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fykaa&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<!-- End here -->
+
+<!-- GitHub Straks  Start here -->
+
+<details>
+  <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
-  
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png" target="_blank">
-    <code><img height="60" width="60" src="#"/></code>
-  </a>
-  <a href="https://github.com/CrossStack-Q/CrossStack-Q/blob/main/PNG/error.png">
-    <code><img src="#" alt="Anurag Sharma's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fykaa&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-<br/> -->
+</details>
 
-<div align="center">
+<!-- End here -->
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 Love 𝚋𝚢 STARRING my 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+ <!-- Recent activity using github workflow -->
 
-</div>
+ <!-- Start here -->
 
-#
+<details>
+  <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
-![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
+   <!--START_SECTION:activity-->
+   <!--END_SECTION:activity-->
+
+---
+
+ </details>
+
+<!-- End here -->
+
+<!-- Cool Wave content Start here  -->
+
+![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
+
+<!-- end here -->
+
+<!-- Spotify Playing start here -->
+<!-- ### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-imaaquibali.vercel.app/api/spotify)](https://open.spotify.com/user/31dr5oul5dtf6lonunqs6yvewrlu)  -->
+
+<!-- End here -->
