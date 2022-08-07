@@ -124,7 +124,12 @@
 
 <!-- Cool Wave content Start here  -->
 
-![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
+<!-- ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png) -->
+
+
+![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
+
+
 
 <!-- end here -->
 
