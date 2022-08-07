@@ -16,9 +16,9 @@
 
 <!-- End here -->
 
-- 🔭 &nbsp; ⇢ &nbsp;  I'm currently working on Web Development 
-- 📋 &nbsp; ⇢ &nbsp; I'm currently practising DSA Algorithms 
-- 🤝 &nbsp; ⇢ &nbsp; I'm looking to collaborate on DSA & Web Development 
+- 🔭 &nbsp; ⇢ &nbsp; I'm currently learning Backend Web Development👩‍💻
+- 📋 &nbsp; ⇢ &nbsp; I'm currently practising DS and Algorithms on Leetcode ⌛
+- 🤝 &nbsp; ⇢ &nbsp; I'm actively looking forward to collaborate on Projects and Open Source🎉
 - 🙋🏽‍♂️ &nbsp; ⇢ &nbsp; Ask me anything [here](https://github.com/fykaa/fykaa/issues)
 
 
