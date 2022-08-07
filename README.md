@@ -21,6 +21,12 @@
 - 🤝 &nbsp; ⇢ &nbsp; I'm looking to collaborate on DSA & Web Development 
 - 🙋🏽‍♂️ &nbsp; ⇢ &nbsp; Ask me anything [here](https://github.com/fykaa/fykaa/issues)
 
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/fykaa/fykaa/blob/25348e7abdbc8075e79b0d74af5f4a1207b60fe4/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
+
 <!-- End here ... -->
 
 <br>
