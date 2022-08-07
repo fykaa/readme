@@ -86,14 +86,14 @@
 <!-- End here -->
 
 <!-- GitHub Straks  Start here -->
-
+<!--
 <details>
   <summary> 📈 &nbsp; <i>My Streak</i></summary>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fykaa&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 </details>
-
+-->
 <!-- End here -->
 
  <!-- Recent activity using github workflow -->
