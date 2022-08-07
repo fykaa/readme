@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I,+am+passionate+about+...;discussing+all+the+...;ideas+out+there+🖤&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20">
   </a>
 </h1>
 
@@ -16,10 +16,10 @@
 
 <!-- End here -->
 
-- 🔭 &nbsp; ⇢ &nbsp; I'm currently learning Backend Web Development👩‍💻
-- 📋 &nbsp; ⇢ &nbsp; I'm currently practising DS and Algorithms on Leetcode ⌛
-- 🤝 &nbsp; ⇢ &nbsp; I'm actively looking forward to collaborate on Projects and Open Source🎉
-- 🙋🏽‍♂️ &nbsp; ⇢ &nbsp; Ask me anything [here](https://github.com/fykaa/fykaa/issues)
+- 🔭 &nbsp; ⇢ &nbsp; Learning Backend Web Development👩‍💻
+- 📋 &nbsp; ⇢ &nbsp; Practising DS and Algorithms on Leetcode ⌛
+- 🤝 &nbsp; ⇢ &nbsp; Looking forward to collaborate on Projects and Open Source🎉
+- 🙋‍♀️ &nbsp; ⇢ &nbsp; Discuss your ideas with me [here](https://github.com/fykaa/fykaa/issues)
 
 
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
