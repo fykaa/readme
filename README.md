@@ -37,7 +37,7 @@
 
 
 
-### 💻 Languages and Tools
+### 👩‍💻 Languages and Tools
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
@@ -51,9 +51,9 @@
 <!-- Blog Post with dynamically update using GitHub Workflow -->
 
 <!-- Start here -->
-
+<!--
 ### 📕 Latest Blog Posts
-
+-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -72,16 +72,12 @@
 
 <!-- Adding git Stats, Streaks to take your profile on the another level. -->
 
-### Some more information
 
 <!-- GitHub Stats  Start here -->
 
-<details>
-  <summary> 📊 &nbsp; <i>My Stats</i></summary>
+### 👩‍💻 Account Statistics
     
  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=fykaa&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 <!-- End here -->
 
