@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#74](https://github.com/Susmita-Dey/Sukoon/issues/74) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-2. 🎉 Merged PR [#2](https://github.com/fykaa/fykaa/pull/2) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
-3. 🎉 Merged PR [#1](https://github.com/fykaa/fykaa/pull/1) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
-4. 💪 Opened PR [#86](https://github.com/Susmita-Dey/Sukoon/pull/86) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
-5. ❗️ Opened issue [#74](https://github.com/Susmita-Dey/Sukoon/issues/74) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+1. 🗣 Commented on [#106](https://github.com/tier3guy/Acadmica/issues/106) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+2. 🗣 Commented on [#106](https://github.com/tier3guy/Acadmica/issues/106) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+3. ❗️ Closed issue [#74](https://github.com/Susmita-Dey/Sukoon/issues/74) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
+4. 🎉 Merged PR [#2](https://github.com/fykaa/fykaa/pull/2) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
+5. 🎉 Merged PR [#1](https://github.com/fykaa/fykaa/pull/1) in [fykaa/fykaa](https://github.com/fykaa/fykaa)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
