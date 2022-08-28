@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/theblockchainchief/web3-hub/issues/24) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-2. 🗣 Commented on [#23](https://github.com/theblockchainchief/web3-hub/issues/23) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-3. 🗣 Commented on [#16](https://github.com/theblockchainchief/web3-hub/issues/16) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-4. 🗣 Commented on [#2](https://github.com/theblockchainchief/web3-hub/issues/2) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
-5. 🗣 Commented on [#137](https://github.com/tier3guy/Acadmica/issues/137) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+1. 🗣 Commented on [#29](https://github.com/theblockchainchief/web3-hub/issues/29) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+2. 🗣 Commented on [#32](https://github.com/theblockchainchief/web3-hub/issues/32) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+3. 🗣 Commented on [#3](https://github.com/theblockchainchief/web3-hub/issues/3) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+4. 🗣 Commented on [#24](https://github.com/theblockchainchief/web3-hub/issues/24) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
+5. 🗣 Commented on [#23](https://github.com/theblockchainchief/web3-hub/issues/23) in [theblockchainchief/web3-hub](https://github.com/theblockchainchief/web3-hub)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
