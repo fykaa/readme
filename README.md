@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/tier3guy/Acadmica/issues/134) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
-2. 💪 Opened PR [#163](https://github.com/tier3guy/Acadmica/pull/163) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
-3. 💪 Opened PR [#161](https://github.com/tier3guy/Acadmica/pull/161) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
-4. 🗣 Commented on [#134](https://github.com/tier3guy/Acadmica/issues/134) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
-5. 💪 Opened PR [#53468](https://github.com/firstcontributions/first-contributions/pull/53468) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 💪 Opened PR [#1](https://github.com/faekaa/trial/pull/1) in [faekaa/trial](https://github.com/faekaa/trial)
+2. 🗣 Commented on [#134](https://github.com/tier3guy/Acadmica/issues/134) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+3. 💪 Opened PR [#163](https://github.com/tier3guy/Acadmica/pull/163) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+4. 💪 Opened PR [#161](https://github.com/tier3guy/Acadmica/pull/161) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+5. 🗣 Commented on [#134](https://github.com/tier3guy/Acadmica/issues/134) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
