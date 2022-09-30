@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178](https://github.com/tier3guy/Acadmica/issues/178) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
-2. 🎉 Merged PR [#1](https://github.com/fykaa/notepad-app/pull/1) in [fykaa/notepad-app](https://github.com/fykaa/notepad-app)
-3. 💪 Opened PR [#1](https://github.com/fykaa/notepad-app/pull/1) in [fykaa/notepad-app](https://github.com/fykaa/notepad-app)
-4. 🗣 Commented on [#64](https://github.com/shreya024/MemoriesApp/issues/64) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
-5. 🗣 Commented on [#177](https://github.com/tier3guy/Acadmica/issues/177) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
+1. 🎉 Merged PR [#2](https://github.com/fykaa/Portfolio-Project/pull/2) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+2. 💪 Opened PR [#2](https://github.com/fykaa/Portfolio-Project/pull/2) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+3. 🎉 Merged PR [#1](https://github.com/fykaa/Portfolio-Project/pull/1) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+4. 💪 Opened PR [#1](https://github.com/fykaa/Portfolio-Project/pull/1) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+5. 🗣 Commented on [#178](https://github.com/tier3guy/Acadmica/issues/178) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
