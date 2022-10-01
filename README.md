@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/fykaa/Portfolio-Project/issues/5) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
-2. 🎉 Merged PR [#4](https://github.com/fykaa/Portfolio-Project/pull/4) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
-3. 💪 Opened PR [#4](https://github.com/fykaa/Portfolio-Project/pull/4) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
-4. 🎉 Merged PR [#3](https://github.com/fykaa/Portfolio-Project/pull/3) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
-5. 💪 Opened PR [#3](https://github.com/fykaa/Portfolio-Project/pull/3) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+1. ❗️ Opened issue [#6](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/6) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. ❗️ Opened issue [#1](https://github.com/fykaa/Spotified-GitHub-/issues/1) in [fykaa/Spotified-GitHub-](https://github.com/fykaa/Spotified-GitHub-)
+3. ❗️ Opened issue [#5](https://github.com/fykaa/Portfolio-Project/issues/5) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+4. 🎉 Merged PR [#4](https://github.com/fykaa/Portfolio-Project/pull/4) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
+5. 💪 Opened PR [#4](https://github.com/fykaa/Portfolio-Project/pull/4) in [fykaa/Portfolio-Project](https://github.com/fykaa/Portfolio-Project)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
