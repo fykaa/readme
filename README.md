@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/codemistic/Non-Code/pull/37) in [codemistic/Non-Code](https://github.com/codemistic/Non-Code)
-2. 🎉 Merged PR [#17](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/17) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. 🗣 Commented on [#14](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/14) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. 💪 Opened PR [#3](https://github.com/shaynzz/trial/pull/3) in [shaynzz/trial](https://github.com/shaynzz/trial)
-5. 💪 Opened PR [#2](https://github.com/shaynzz/trial/pull/2) in [shaynzz/trial](https://github.com/shaynzz/trial)
+1. 🗣 Commented on [#4049](https://github.com/amplication/amplication/issues/4049) in [amplication/amplication](https://github.com/amplication/amplication)
+2. 💪 Opened PR [#4049](https://github.com/amplication/amplication/pull/4049) in [amplication/amplication](https://github.com/amplication/amplication)
+3. 💪 Opened PR [#37](https://github.com/codemistic/Non-Code/pull/37) in [codemistic/Non-Code](https://github.com/codemistic/Non-Code)
+4. 🎉 Merged PR [#17](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/17) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 🗣 Commented on [#14](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/14) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
