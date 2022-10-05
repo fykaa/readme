@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/16) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. ❌ Closed PR [#2039](https://github.com/do-community/cloud_haiku/pull/2039) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
-3. 💪 Opened PR [#2104](https://github.com/do-community/cloud_haiku/pull/2104) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
-4. 🗣 Commented on [#4049](https://github.com/amplication/amplication/issues/4049) in [amplication/amplication](https://github.com/amplication/amplication)
-5. 💪 Opened PR [#4049](https://github.com/amplication/amplication/pull/4049) in [amplication/amplication](https://github.com/amplication/amplication)
+1. ❌ Reopened PR [#2039](https://github.com/do-community/cloud_haiku/pull/2039) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
+2. 🗣 Commented on [#19](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/19) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+3. 🗣 Commented on [#16](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/16) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. ❌ Closed PR [#2039](https://github.com/do-community/cloud_haiku/pull/2039) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
+5. 💪 Opened PR [#2104](https://github.com/do-community/cloud_haiku/pull/2104) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
