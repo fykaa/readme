@@ -98,7 +98,7 @@
 
 <details>
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
-d
+
    <!--START_SECTION:activity-->
 1. ❌ Reopened PR [#2039](https://github.com/do-community/cloud_haiku/pull/2039) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
 2. 🗣 Commented on [#19](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/19) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
