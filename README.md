@@ -100,11 +100,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/20) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. ❗️ Opened issue [#22](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/22) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. 🗣 Commented on [#21](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/21) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. ❌ Reopened PR [#2039](https://github.com/do-community/cloud_haiku/pull/2039) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
-5. 🗣 Commented on [#19](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/19) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+1. 🗣 Commented on [#22](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/22) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+2. 🗣 Commented on [#20](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/20) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+3. ❗️ Opened issue [#22](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/22) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. 🗣 Commented on [#21](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/21) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. ❌ Reopened PR [#2039](https://github.com/do-community/cloud_haiku/pull/2039) in [do-community/cloud_haiku](https://github.com/do-community/cloud_haiku)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
