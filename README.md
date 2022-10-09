@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Fyka Ansari, I do open source!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
+<p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Fyka, I do open source!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
 
 <h1 align="center">
   <a href="#">
