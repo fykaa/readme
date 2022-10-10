@@ -1,4 +1,4 @@
-<pre align=""  > <b> Hello folks! This is Fyka! </b>🙋‍♀️</pre>
+<pre align="center"  > <b>  This is Fyka! </b>🙋‍♀️</pre>
 
 <br>
 <br>
