@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/54) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. 💪 Opened PR [#54](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/54) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. 🎉 Merged PR [#2](https://github.com/fykaa/techOS-Bell/pull/2) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-4. 💪 Opened PR [#2](https://github.com/fykaa/techOS-Bell/pull/2) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-5. 🎉 Merged PR [#1](https://github.com/fykaa/techOS-Bell/pull/1) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+1. ❗️ Opened issue [#4](https://github.com/fykaa/techOS-Bell/issues/4) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+2. ❗️ Opened issue [#3](https://github.com/fykaa/techOS-Bell/issues/3) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+3. 🎉 Merged PR [#54](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/54) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. 💪 Opened PR [#54](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/54) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 🎉 Merged PR [#2](https://github.com/fykaa/techOS-Bell/pull/2) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
