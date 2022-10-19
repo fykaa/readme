@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/13) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. ❗️ Reopened issue [#13](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/13) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+1. 🗣 Commented on [#24](https://github.com/fykaa/techOS-Bell/issues/24) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+2. ❗️ Opened issue [#25](https://github.com/fykaa/techOS-Bell/issues/25) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
 3. ❗️ Closed issue [#13](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/13) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. ❗️ Closed issue [#28](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/28) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-5. ❗️ Closed issue [#55](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/55) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. ❗️ Reopened issue [#13](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/13) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. ❗️ Closed issue [#13](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/13) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
