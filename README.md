@@ -1,5 +1,5 @@
-<pre align="center"  > <b>  This is Fyka! </b>🙋‍♀️</pre>
-
+<pre align="center"  > <b>  This is Fyka!</b>🙋‍♀️ </pre>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=fykaa&style=circle&color=red" alt="views"/></div>
 <br>
 <br>
 <p align="center"><a href="#"><img height = "250" width="400px"alt="Hello, I'm Fyka, I do open source!" src="https://cloud-9gtzhm4z6-hack-club-bot.vercel.app/0girl-pixel.gif" /></a></p>
