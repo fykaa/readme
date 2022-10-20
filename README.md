@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❌ Closed PR [#29](https://github.com/fykaa/techOS-Bell/pull/29) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-2. 🗣 Commented on [#29](https://github.com/fykaa/techOS-Bell/issues/29) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-3. ❌ Closed PR [#23](https://github.com/fykaa/techOS-Bell/pull/23) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-4. ❌ Closed PR [#30](https://github.com/fykaa/techOS-Bell/pull/30) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-5. ❗️ Closed issue [#32](https://github.com/fykaa/techOS-Bell/issues/32) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+1. 🎉 Merged PR [#38](https://github.com/fykaa/techOS-Bell/pull/38) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+2. 🗣 Commented on [#37](https://github.com/fykaa/techOS-Bell/issues/37) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+3. ❗️ Opened issue [#37](https://github.com/fykaa/techOS-Bell/issues/37) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+4. 🗣 Commented on [#33](https://github.com/fykaa/techOS-Bell/issues/33) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+5. ❗️ Opened issue [#82](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/82) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
