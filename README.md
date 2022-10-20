@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/fykaa/techOS-Bell/pull/38) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-2. 🗣 Commented on [#37](https://github.com/fykaa/techOS-Bell/issues/37) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-3. ❗️ Opened issue [#37](https://github.com/fykaa/techOS-Bell/issues/37) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-4. 🗣 Commented on [#33](https://github.com/fykaa/techOS-Bell/issues/33) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
-5. ❗️ Opened issue [#82](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/82) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+1. 🗣 Commented on [#28](https://github.com/fykaa/techOS-Bell/issues/28) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+2. 🗣 Commented on [#19](https://github.com/fykaa/techOS-Bell/issues/19) in [fykaa/techOS-Bell](https://github.com/fykaa/techOS-Bell)
+3. 🗣 Commented on [#73](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/73) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. 🗣 Commented on [#81](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/81) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 🗣 Commented on [#81](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/81) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
