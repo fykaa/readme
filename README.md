@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/TechOS-Bell/techOS-Bell/issues/42) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-2. ❗️ Closed issue [#3](https://github.com/TechOS-Bell/techOS-Bell/issues/3) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-3. 🎉 Merged PR [#84](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/84) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. 🗣 Commented on [#84](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/84) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-5. 🗣 Commented on [#41](https://github.com/TechOS-Bell/techOS-Bell/issues/41) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+1. 🗣 Commented on [#42](https://github.com/TechOS-Bell/techOS-Bell/issues/42) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+2. ❗️ Opened issue [#42](https://github.com/TechOS-Bell/techOS-Bell/issues/42) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+3. ❗️ Closed issue [#3](https://github.com/TechOS-Bell/techOS-Bell/issues/3) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+4. 🎉 Merged PR [#84](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/84) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 🗣 Commented on [#84](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/84) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
