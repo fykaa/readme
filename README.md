@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/TechOS-Bell/techOS-Bell/issues/42) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-2. 🎉 Merged PR [#20](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/20) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. ❌ Closed PR [#79](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/79) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. 🗣 Commented on [#85](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/85) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-5. 🗣 Commented on [#43](https://github.com/TechOS-Bell/techOS-Bell/issues/43) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+1. ❌ Closed PR [#41](https://github.com/TechOS-Bell/techOS-Bell/pull/41) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+2. 🎉 Merged PR [#45](https://github.com/TechOS-Bell/techOS-Bell/pull/45) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+3. 🗣 Commented on [#42](https://github.com/TechOS-Bell/techOS-Bell/issues/42) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+4. 🎉 Merged PR [#20](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/20) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. ❌ Closed PR [#79](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/79) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
