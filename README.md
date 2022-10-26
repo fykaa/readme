@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#50](https://github.com/TechOS-Bell/techOS-Bell/issues/50) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-2. ❗️ Closed issue [#17](https://github.com/TechOS-Bell/techOS-Bell/issues/17) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-3. ❗️ Reopened issue [#47](https://github.com/TechOS-Bell/techOS-Bell/issues/47) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-4. ❗️ Closed issue [#47](https://github.com/TechOS-Bell/techOS-Bell/issues/47) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
-5. 🎉 Merged PR [#49](https://github.com/TechOS-Bell/techOS-Bell/pull/49) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+1. ❗️ Closed issue [#47](https://github.com/TechOS-Bell/techOS-Bell/issues/47) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+2. 🎉 Merged PR [#51](https://github.com/TechOS-Bell/techOS-Bell/pull/51) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+3. 🗣 Commented on [#51](https://github.com/TechOS-Bell/techOS-Bell/issues/51) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+4. ❗️ Opened issue [#50](https://github.com/TechOS-Bell/techOS-Bell/issues/50) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+5. ❗️ Closed issue [#17](https://github.com/TechOS-Bell/techOS-Bell/issues/17) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
