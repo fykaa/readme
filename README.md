@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/95) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-2. 🗣 Commented on [#95](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/95) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-3. 🗣 Commented on [#94](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/94) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-4. 🗣 Commented on [#94](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/94) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
-5. 🗣 Commented on [#91](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/91) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+1. ❌ Closed PR [#48](https://github.com/TechOS-Bell/techOS-Bell/pull/48) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+2. 🗣 Commented on [#50](https://github.com/TechOS-Bell/techOS-Bell/issues/50) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+3. 🎉 Merged PR [#95](https://github.com/fykaa/Sample-Portfolio-for-Learners/pull/95) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+4. 🗣 Commented on [#95](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/95) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
+5. 🗣 Commented on [#94](https://github.com/fykaa/Sample-Portfolio-for-Learners/issues/94) in [fykaa/Sample-Portfolio-for-Learners](https://github.com/fykaa/Sample-Portfolio-for-Learners)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
