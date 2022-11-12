@@ -110,11 +110,11 @@
   <summary> 📈 &nbsp; <i>Recent Activity</i></summary>
 
    <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#601](https://github.com/Devs-Dungeon/support/issues/601) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
-2. ❗️ Opened issue [#1](https://github.com/TechOS-Bell/techOS-blog/issues/1) in [TechOS-Bell/techOS-blog](https://github.com/TechOS-Bell/techOS-blog)
-3. 💪 Opened PR [#670](https://github.com/hackclub/dinosaurs/pull/670) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-4. ❗️ Opened issue [#5924](https://github.com/EddieHubCommunity/support/issues/5924) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. ❌ Closed PR [#48](https://github.com/TechOS-Bell/techOS-Bell/pull/48) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+1. ❌ Closed PR [#52](https://github.com/TechOS-Bell/techOS-Bell/pull/52) in [TechOS-Bell/techOS-Bell](https://github.com/TechOS-Bell/techOS-Bell)
+2. ❗️ Opened issue [#601](https://github.com/Devs-Dungeon/support/issues/601) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+3. ❗️ Opened issue [#1](https://github.com/TechOS-Bell/techOS-blog/issues/1) in [TechOS-Bell/techOS-blog](https://github.com/TechOS-Bell/techOS-blog)
+4. 💪 Opened PR [#670](https://github.com/hackclub/dinosaurs/pull/670) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+5. ❗️ Opened issue [#5924](https://github.com/EddieHubCommunity/support/issues/5924) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 6. 🗣 Commented on [#58](https://github.com/Susmita-Dey/Sukoon/issues/58) in [Susmita-Dey/Sukoon](https://github.com/Susmita-Dey/Sukoon)
 7. 🗣 Commented on [#48](https://github.com/tier3guy/Acadmica/issues/48) in [tier3guy/Acadmica](https://github.com/tier3guy/Acadmica)
 8. 🗣 Commented on [#5](https://github.com/shreya024/MemoriesApp/issues/5) in [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
